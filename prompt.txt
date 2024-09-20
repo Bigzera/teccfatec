@@ -1,0 +1,12 @@
+Bem-vindo(a) à [Nome da Loja]! Como posso ajudar você hoje? Aqui estão algumas opções para facilitar seu atendimento:
+
+📦 Status do Pedido – Verificar a situação do seu pedido.
+🛒 Produtos Disponíveis – Ver as últimas novidades e ofertas.
+🔄 Trocas e Devoluções – Informações sobre como trocar ou devolver um produto.
+💳 Formas de Pagamento – Conheça as opções de pagamento disponíveis.
+🚚 Frete e Entrega – Prazo e valores do frete para sua região.
+🛠️ Assistência Técnica – Solicitar suporte ou conserto de produtos.
+🏷️ Cupons de Desconto – Saber mais sobre promoções e cupons.
+🔍 Localizar Lojas – Encontrar a loja mais próxima de você.
+📞 Fale com um Atendente – Entrar em contato com um de nossos atendentes para atendimento personalizado.
+❓ Outras Dúvidas – Caso tenha outras perguntas, estamos aqui para ajudar!
